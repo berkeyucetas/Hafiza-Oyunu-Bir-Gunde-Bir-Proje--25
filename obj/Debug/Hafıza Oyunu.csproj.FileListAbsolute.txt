@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
